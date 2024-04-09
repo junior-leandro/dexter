@@ -1,0 +1,8 @@
+.season-content{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    font-size: 22px;
+    color: rgb(233, 0, 0);
+}

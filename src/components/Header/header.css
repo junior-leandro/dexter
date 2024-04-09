@@ -1,0 +1,45 @@
+header {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(223, 0, 0);
+    height: 8vh;
+    width: 100%;
+}
+
+
+
+.header-area-1,
+.header-area-2 {
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.past-icon {
+    height: 9vh;
+}
+
+.header-list {
+    display: flex;
+    flex-direction: row;
+    gap: 2em;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+}
+
+li {
+    list-style-type: none;
+}
+
+li a {
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 18px;
+    color: white;
+}
+li a:hover{
+    color: rgb(190, 0, 0);
+}

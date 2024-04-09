@@ -1,8 +1,16 @@
+* {
+  padding:0;
+  margin:0;
+  border:0;
+  box-sizing: border-box;
+  }
+
 .App {
-  height: 100vh;
+  height: 92vh;
   background-image: url("./img/dexter-capa.jpg");
   background-position: center;
   background-repeat: no-repeat;
   background-size: contain;
   background-color: black;
 }
+
