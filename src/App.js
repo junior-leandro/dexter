@@ -9,13 +9,6 @@ function App() {
     <Header/>
     <div className="App">
       <Season season="1"/>
-      <Season season="2"/>
-      <Season season="3"/>
-      <Season season="4"/>
-      <Season season="5"/>
-      <Season season="6"/>
-      <Season season="7"/>
-      <Season season="8"/>
     </div>
     </>
   );

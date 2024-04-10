@@ -7,9 +7,7 @@ export default function Header() {
         <header>
 
             <div className="header-area-1">
-                <a href="#" target='_blank'>
-                    <img src={past} alt="past" className="past-icon" />
-                </a>
+                
             </div>
 
             <div className="header-area-2">
