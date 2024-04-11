@@ -1,7 +1,7 @@
 {
-    "season-1": {
-        "ano": "2006",
-        "resumo": "A série apresenta o protagonista e o passado sangrento de Dexter, da infância com a família adotiva, após a morte de sua mãe. Com um humor particular, o analista forense tem uma vida dupla, com tendências psicopatas, que esconde da namorada Rita. Enquanto isso, um vilão chamado Ice Truck Killer, o ITK, começa a ser investigado pela polícia por espalhar partes de corpos mutilados pela cidade. Enquanto Dexter persegue ITK, sua irmã Debra (Jennifer Carpenter) se envolve com o médico Rudy.",
+    "1": {
+        "year": "2006",
+        "synopsis": "The first season of Dexter is an adaptation of Jeff Lindsay’s first novel in the Dexter series, Darkly Dreaming Dexter. Subsequent seasons have featured original storylines. This season follows Dexter’s investigation of “The Ice Truck Killer”. Introduced in the first episode, “Dexter”, this serial killer targets prostitutes and leaves their bodies severed and bloodless. At the same time, Dexter’s foster sister, Debra Morgan (Jennifer Carpenter), a vice squad officer, aspires to work in the homicide department, and Dexter’s girlfriend, Rita Bennett (Julie Benz), wants their relationship to be more intimate.",
         "ep01": "Dexter",
         "ep02": "Crocodile",
         "ep03": "Popping Cherry",
@@ -16,9 +16,9 @@
         "ep12": "Born Free"
     },
 
-    "season-2": {
-        "ano": "2007",
-        "resumo": "Com a mudança de Debra para o apartamento de Dexter, as coisas ficam mais difíceis. Ele tenta se comportar como uma pessoa normal, já que está na companhia da irmã e também sob suspeita do sargento Doakes. Nesse período surge Lila, uma psicopata que ajuda Dexter a lidar com sua raiva e a presença do agente do FBI Lundy na cidade",
+    "2": {
+        "year": "2007",
+        "synopsis": "Com a mudança de Debra para o apartamento de Dexter, as coisas ficam mais difíceis. Ele tenta se comportar como uma pessoa normal, já que está na companhia da irmã e também sob suspeita do sargento Doakes. Nesse período surge Lila, uma psicopata que ajuda Dexter a lidar com sua raiva e a presença do agente do FBI Lundy na cidade",
         "ep01": "It's Alive!",
         "ep02": "Waiting to Exhale",
         "ep03": "An Inconvenient Lie",
@@ -33,9 +33,43 @@
         "ep12": "The British Invasion"
     },
 
-    "season-3": {
-        "ano": "2008",
-        "resumo": "Em crise ética com sua natureza assassina, Dexter sofre com as consequências de seus atos. Sua confiança no promotor Miguel Prado entra em risco quando o sujeito passa a figurar no código mortal de Dexter. É nessa temporada que Rita descobre que está grávida. Dexter vai ser papai.",
+    "3": {
+        "year": "2008",
+        "synopsis": "Em crise ética com sua natureza assassina, Dexter sofre com as consequências de seus atos. Sua confiança no promotor Miguel Prado entra em risco quando o sujeito passa a figurar no código mortal de Dexter. É nessa temporada que Rita descobre que está grávida. Dexter vai ser papai.",
+        "ep01": "Our Father",
+        "ep02": "Finding Freebo",
+        "ep03": "The Lion Sleeps Tonight",
+        "ep04": "All in the Family",
+        "ep05": "Turning Biminese",
+        "ep06": "Sí Se Puede",
+        "ep07": "Easy as Pie",
+        "ep08": "The Damage a Man Can Do",
+        "ep09": "About Last Night",
+        "ep10": "Go Your Own Way",
+        "ep11": "I Had a Dream",
+        "ep12": "Do You Take Dexter Morgan?"
+    },
+
+    "4": {
+        "year": "2009",
+        "synopsis": "Uma das melhores temporadas, a continuação premiada com Globo de Ouro e Emmy prossegue ao narrar a nova rotina de Dexter, como pai de família. No episódio mais visto até então, no canal Showtime, Dexter conhece Trinity Killer, um assassino há mais de 30 anos e Debra cresce na temporada, após a morte do namorado. Em uma das cenas mais inesperadas, Dexter enfrenta Trinity Killer e ao chegar em casa descobre que sua família pagou um preço alto.",
+        "ep01": "Living the Dream",
+        "ep02": "Remains to Be Seen",
+        "ep03": "Blinded by the Light",
+        "ep04": "Dex Takes a Holiday",
+        "ep05": "Dirty Harry",
+        "ep06": "If I Had a Hammer",
+        "ep07": "Slack Tide",
+        "ep08": "Road Kill",
+        "ep09": "Hungry Man",
+        "ep10": "Lost Boys",
+        "ep11": "Hello, Dexter Morgan",
+        "ep12": "The Getaway"
+    },
+
+    "5": {
+        "year": "2010",
+        "synopsis": "Ao começar exatamente no final da temporada anterior, a série ganha nova dinâmica. Agora Dexter precisa reunir forças para lidar com a perda na família. Enquanto enfrenta o luto, o serial killer conhece a jovem Lumen, uma das vítimas do assassino Dark Passenger, que também vai para a mesa de Dexter. O agente Liddy começa a desconfiar da integridade do protagonista e a irmã de Dexter segue confiante em sua fase na delegacia.",
         "ep01": "",
         "ep02": "",
         "ep03": "",
@@ -50,9 +84,9 @@
         "ep12": ""
     },
 
-    "season-4": {
-        "ano": "2009",
-        "resumo": "Uma das melhores temporadas, a continuação premiada com Globo de Ouro e Emmy prossegue ao narrar a nova rotina de Dexter, como pai de família. No episódio mais visto até então, no canal Showtime, Dexter conhece Trinity Killer, um assassino há mais de 30 anos e Debra cresce na temporada, após a morte do namorado. Em uma das cenas mais inesperadas, Dexter enfrenta Trinity Killer e ao chegar em casa descobre que sua família pagou um preço alto.",
+    "6": {
+        "year": "2011",
+        "synopsis": "Grandes momentos. Dois fanáticos religiosos, o professor James Gellar e Travis criam cenas aterrorizantes a partir de inspirações bíblicas e logo entram no radar do protagonista. Em um jogo de perseguição, Dexter coloca em risco sua família e o grande segredo do analista forense é descoberto pela irmã.",
         "ep01": "",
         "ep02": "",
         "ep03": "",
@@ -67,9 +101,9 @@
         "ep12": ""
     },
 
-    "season-5": {
-        "ano": "2010",
-        "resumo": "Ao começar exatamente no final da temporada anterior, a série ganha nova dinâmica. Agora Dexter precisa reunir forças para lidar com a perda na família. Enquanto enfrenta o luto, o serial killer conhece a jovem Lumen, uma das vítimas do assassino Dark Passenger, que também vai para a mesa de Dexter. O agente Liddy começa a desconfiar da integridade do protagonista e a irmã de Dexter segue confiante em sua fase na delegacia.",
+    "7": {
+        "year": "2012",
+        "synopsis": "Com grandes mudanças, a trama deixa de apresentar um grande inimigo por temporada e foca na relação de Dexter com Debra, após ter seu segredo revelado. Medo, negação e repulsa assombram a detetive e ela não consegue acreditar em seu irmão. Isso muda um pouco quando Debra é salva por Dexter de um assassino. É aqui que o protagonista conhece Hannah, e se identifica com a 'versão feminina de si.' A mulher logo vira desafeto de Debra e Dexter se vê dividido.",
         "ep01": "",
         "ep02": "",
         "ep03": "",
@@ -84,43 +118,9 @@
         "ep12": ""
     },
 
-    "season-6": {
-        "ano": "2011",
-        "resumo": "Grandes momentos. Dois fanáticos religiosos, o professor James Gellar e Travis criam cenas aterrorizantes a partir de inspirações bíblicas e logo entram no radar do protagonista. Em um jogo de perseguição, Dexter coloca em risco sua família e o grande segredo do analista forense é descoberto pela irmã.",
-        "ep01": "",
-        "ep02": "",
-        "ep03": "",
-        "ep04": "",
-        "ep05": "",
-        "ep06": "",
-        "ep07": "",
-        "ep08": "",
-        "ep09": "",
-        "ep10": "",
-        "ep11": "",
-        "ep12": ""
-    },
-
-    "season-7": {
-        "ano": "2012",
-        "resumo": "Com grandes mudanças, a trama deixa de apresentar um grande inimigo por temporada e foca na relação de Dexter com Debra, após ter seu segredo revelado. Medo, negação e repulsa assombram a detetive e ela não consegue acreditar em seu irmão. Isso muda um pouco quando Debra é salva por Dexter de um assassino. É aqui que o protagonista conhece Hannah, e se identifica com a 'versão feminina de si.' A mulher logo vira desafeto de Debra e Dexter se vê dividido.",
-        "ep01": "",
-        "ep02": "",
-        "ep03": "",
-        "ep04": "",
-        "ep05": "",
-        "ep06": "",
-        "ep07": "",
-        "ep08": "",
-        "ep09": "",
-        "ep10": "",
-        "ep11": "",
-        "ep12": ""
-    },
-
-    "season-8": {
-        "ano": "2013",
-        "resumo": "Para coroar o grande final da série, Dexter ganha mais um vilão. O sujeito arranca pedaços do cérebro de suas vítimas depois de mortas. Com a chegada da Dra. Evelyn Voguel, a privacidade de Dexter é invadida e a série debate ideias filosóficas sobre a escuridão na natureza humana. O protagonista precisa manter o filho em segurança, e Hannah vai ajudá-lo com isso. Debra está em seu momento mais frágil, e sua despedida é emocionante.",
+    "8": {
+        "year": "2013",
+        "synopsis": "Para coroar o grande final da série, Dexter ganha mais um vilão. O sujeito arranca pedaços do cérebro de suas vítimas depois de mortas. Com a chegada da Dra. Evelyn Voguel, a privacidade de Dexter é invadida e a série debate ideias filosóficas sobre a escuridão na natureza humana. O protagonista precisa manter o filho em segurança, e Hannah vai ajudá-lo com isso. Debra está em seu momento mais frágil, e sua despedida é emocionante.",
         "ep01": "",
         "ep02": "",
         "ep03": "",
