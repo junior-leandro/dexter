@@ -1,5 +1,6 @@
-{
-    "1": {
+[
+    {
+        "id": "1",
         "year": "2006",
         "synopsis": "The first season of Dexter is an adaptation of Jeff Lindsay’s first novel in the Dexter series, Darkly Dreaming Dexter. Subsequent seasons have featured original storylines. This season follows Dexter’s investigation of “The Ice Truck Killer”. Introduced in the first episode, “Dexter”, this serial killer targets prostitutes and leaves their bodies severed and bloodless. At the same time, Dexter’s foster sister, Debra Morgan (Jennifer Carpenter), a vice squad officer, aspires to work in the homicide department, and Dexter’s girlfriend, Rita Bennett (Julie Benz), wants their relationship to be more intimate.",
         "ep01": "Dexter",
@@ -15,8 +16,8 @@
         "ep11": "Truth Be Told",
         "ep12": "Born Free"
     },
-
-    "2": {
+    {
+        "id": "2",
         "year": "2007",
         "synopsis": "In the season, the bodies of Dexter’s victims are uncovered and an investigation is launched in Dexter’s own department to find the killer, dubbed the “Bay Harbor Butcher”. During this time, Debra struggles to recover after surviving the Ice Truck Killer’s attempts to murder her, and Rita sends Dexter to Narcotics Anonymous meetings when she suspects that he has an addiction. Sergeant James Doakes (Erik King), stalks Dexter, suspecting that he is connected with the “Ice Truck Killer” killings.",
         "ep01": "It's Alive!",
@@ -32,8 +33,8 @@
         "ep11": "Left Turn Ahead",
         "ep12": "The British Invasion"
     },
-
-    "3": {
+    {
+        "id": "3",
         "year": "2008",
         "synopsis": "In this season, Dexter kills a man in self-defense and initiates a friendship with the man’s brother, Assistant District Attorney Miguel Prado (Jimmy Smits). In the meantime, Rita discovers that she is pregnant, and Debra investigates the murders of a new serial killer, called “The Skinner”, hoping to gain a promotion to detective.",
         "ep01": "Our Father",
@@ -49,8 +50,8 @@
         "ep11": "I Had a Dream",
         "ep12": "Do You Take Dexter Morgan?"
     },
-
-    "4": {
+    {
+        "id": "4",
         "year": "2009",
         "synopsis": "This Season focused on Dexter attempting to find his way to balance his family life, the birth of his son, and his “extra-curricular” activities until he meet a man named Arthur Mitchell.",
         "ep01": "Living the Dream",
@@ -66,8 +67,8 @@
         "ep11": "Hello, Dexter Morgan",
         "ep12": "The Getaway"
     },
-
-    "5": {
+    {
+        "id": "5",
         "year": "2010",
         "synopsis": "The season focuses on how Dexter comes to terms with the aftermath of the Season 4 finale, stopping a group of serial rapists and avoiding a corrupt cop who learns his deadly secret.",
         "ep01": "My Bad",
@@ -83,8 +84,8 @@
         "ep11": "Hop a Freighter",
         "ep12": "The Big One"
     },
-
-    "6": {
+    {
+        "id": "6",
         "year": "2011",
         "synopsis": "This season follows Dexter’s and Miami Metro’s investigations into a string of bizarre ritualistic killings featuring overtly religious apocalyptic symbolism.",
         "ep01": "Those Kinds of Things",
@@ -100,8 +101,8 @@
         "ep11": "Talk to the Hand",
         "ep12": "This Is the Way the World Ends"
     },
-
-    "7": {
+    {
+        "id": "7",
         "year": "2012",
         "synopsis": "The season follows Dexter’s tangles with a Ukrainian mob boss and introduces the character Hannah McKay, a mysterious widow with a green thumb and a chequered past.",
         "ep01": "Are You...?",
@@ -117,8 +118,8 @@
         "ep11": "Do You See What I See?",
         "ep12": "Surprise, Motherfucker!"
     },
-
-    "8": {
+    {
+        "id": "8",
         "year": "2013",
         "synopsis": "The season follows Dexter, who is forced to deal with his past when he comes across Dr. Evelyn Vogel, a woman who claims to have structured the code for him alongside Harry. This season also deals with a new serial killer in Miami that removes pieces of the victims brains, and with Debra who is unable to deal with the fact that she murdered LaGuerta.",
         "ep01": "A Beautiful Day",
@@ -134,4 +135,4 @@
         "ep11": "Monkey in a Box",
         "ep12": "Remember the Monsters?"
     }
-}
+]
