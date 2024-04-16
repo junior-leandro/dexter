@@ -17,6 +17,7 @@ function Season(props) {
             <h2>Synopsis</h2>
             <p>{data[currentId].synopsis}</p>
             <h3>Year: {data[currentId].year} </h3>
+            
          </div>
         </div>
     );

@@ -1,5 +1,4 @@
 
-import past from '../../img/dexter-icon-28.jpg'
 import './header.css'
 
 export default function Header() {
