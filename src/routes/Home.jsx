@@ -12,7 +12,7 @@ function Home() {
             <video src={videoBG} autoPlay loop muted />
             <div className="content">
                 <h1>Welcome to Dexter's Life</h1>
-                <a href="#">Explore</a>
+                <a href="/season">Explore</a>
             </div>
         </div>
 
