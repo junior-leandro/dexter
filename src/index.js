@@ -5,12 +5,14 @@ import reportWebVitals from './reportWebVitals';
 
 import Home from './routes/Home';
 import Season from './components/Season/Season';
+import ErrorPage from './routes/ErrorPage';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home/>
+    element: <Home/>,
+    errorElement: <ErrorPage/>
   },
   {
     path: "season",
