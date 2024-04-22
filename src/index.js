@@ -4,9 +4,10 @@ import './index.css';
 import reportWebVitals from './reportWebVitals';
 
 import Home from './routes/Home';
-import Season from './components/Season/Season';
+import Season from './routes/Season';
 import ErrorPage from './routes/ErrorPage';
 import { createBrowserRouter, RouterProvider } from 'react-router-dom';
+import Header from './components/Header/Header';
 
 const router = createBrowserRouter([
   {
@@ -22,7 +23,8 @@ const router = createBrowserRouter([
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
+  <React.StrictMode> 
+    <Header/>
     <RouterProvider router={router}/>
   </React.StrictMode>
 );

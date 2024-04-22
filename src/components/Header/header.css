@@ -5,6 +5,8 @@ header {
     background-color: rgb(223, 0, 0);
     height: 8vh;
     width: 100%;
+    position: relative;
+    z-index: -1;
 }
 
 
@@ -34,12 +36,12 @@ li {
     list-style-type: none;
 }
 
-li a {
-    text-decoration: none;
+li button {
     font-weight: 700;
     font-size: 18px;
     color: white;
+    background-color: transparent;
 }
-li a:hover{
+li button:hover{
     color: rgb(190, 0, 0);
 }
