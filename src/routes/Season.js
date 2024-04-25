@@ -2,12 +2,12 @@ import React from 'react';
 import data from "./season.json"
 import './season.css';
 
-
+let currentSeason = 1
+    let currentId = currentSeason - 1;
 
 function Season(props) {
 
-    let currentSeason = 1
-    let currentId = currentSeason - 1;
+    
     return (
         
             <div className='season-content'>
